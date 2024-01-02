@@ -1,0 +1,4 @@
+version = 1
+
+[extensions]
+kamran = "https://github.com/Council-of-Obbioros/kamran"
